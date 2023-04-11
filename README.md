@@ -1,3 +1,7 @@
+### Background
+Scraping and analyzing websites with Mars news and weather facts.
+
+
 ### Deliverable 1: 
 Extracting titles and preview text from Mars news articles through automated browsing of the Mars news site.
 
